@@ -1,0 +1,16 @@
+
+.form {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.padding {
+  padding: 10px 10px 20px 10px;
+}
+
+.center-alignment {
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,29 @@
+
+.app-header {
+  background-color: purple;
+  height: 70px;
+  padding: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.app-header .logo-container {
+  height: 35px;
+  display: flex;
+}
+
+.app-header .logo-container img {
+  height: 100%;
+}
+
+.app-header .logo-container span {
+  height: 100%;
+  color: white;
+  font-size: 1.5rem;
+  margin-left: 10px;
+}
+
+.app-header .btn {
+  margin-left: 10px;
+}

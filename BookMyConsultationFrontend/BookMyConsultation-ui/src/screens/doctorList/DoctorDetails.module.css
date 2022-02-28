@@ -1,0 +1,16 @@
+
+.card {
+  padding: 20px;
+  overflow-wrap: break-word;
+  cursor: pointer;
+}
+
+.card .name {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+
+.card .details {
+  font-size: 0.9rem;
+}

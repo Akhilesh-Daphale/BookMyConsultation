@@ -1,0 +1,30 @@
+
+.card {
+  width: 40%;
+  margin: 5px;
+  padding: 15px;
+  text-align: left;
+}
+
+.card .name {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+
+.card .details {
+  font-size: 0.9rem;
+}
+
+.card .btn {
+  width: 40%;
+  margin: 10px;
+}
+
+.card .details-btn {
+  background-color: green;
+}
+
+.card .details-btn:hover {
+  background-color: green;
+}
